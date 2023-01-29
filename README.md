@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <Head>
   <h1>My Portfolio</h1>
