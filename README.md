@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
-<H1>
-  <title>My Portfolio</title>
+<Head>
+  My Portfolio
 </head>
 <body>
   <header>
