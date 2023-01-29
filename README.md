@@ -16,7 +16,7 @@
   <main>
     <section id="about">
       <h1>About Me</h1>
-      <p>Hi, my name is Jane Smith and I am a web developer.</p>
+      <p>Hi, my name is Calvin Ow and I am a Marketere.</p>
     </section>
     <section id="projects">
       <h1>My Projects</h1>
@@ -28,8 +28,8 @@
     </section>
     <section id="contact">
       <h1>Contact Me</h1>
-      <p>Email: jane.smith@email.com</p>
-      <p>Phone: 555-555-5555</p>
+      <p>Email: Ow.calvin5@gmail.com</p>
+      <p>Phone: 0166868243</p>
     </section>
   </main>
 </body>
