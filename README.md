@@ -16,7 +16,7 @@
   <main>
     <section id="about">
       <h1>About Me</h1>
-      <p>Hi, my name is Calvin Ow and I am a Marketere.</p>
+      <p>Hi, my name is Calvin Ow and I am a Marketer.</p>
     </section>
     <section id="projects">
       <h1>My Projects</h1>
